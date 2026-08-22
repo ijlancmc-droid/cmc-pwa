@@ -1,0 +1,22 @@
+{
+  "name": "KSU CMC Student Hub",
+  "short_name": "CMC Hub",
+  "start_url": "https://ksucmc.blogspot.com/",
+  "scope": "https://ksucmc.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0284c7",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_PmR-FZVgqPRPbSmQDWZxJ0q7B2c5iqYkYW55mvPz1uScZsGG7rjLDWkqrGgkZddHrvbUHLgjfZ7Asq6gJ5vXEpUFneD-K6G-ZHH08N4LSp1GyolbMpEmh_4SGGSxpwnpLW7Kn_rUFaFxVggmLfOSeKD7ZMns7uYXGd8J8b8KsfNLgFpiZhDMtlUkm096/s1600/1000000872.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNJEeVk6EFCyhrVNaCGjXgg-PmLPPLlTn8VICPC-BI1D0j0yvTbcI9c-wao-DhdgYnoGL4cGlkLNB7rfpnsh71O_ic3jWAlTXuIIUBzgWP3nFre5zqoZTFIQ0RCK9ZMxx-n9FP-rVyx4TLU5LmmkHttbFbeKOh0a8uTCj6WY1JJQrqoHFsYP2FdeJ_oxX1/s1600/1000000871.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
+
