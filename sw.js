@@ -1,3 +1,7 @@
+
+// Import OneSignal SDK service worker
+importScripts('https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.sw.js');
+
 const CACHE_NAME = 'ksu-cmc-cache-v1';
 
 self.addEventListener('install', (event) => {
@@ -16,4 +20,3 @@ self.addEventListener('fetch', (event) => {
     }).catch(() => {})
   );
 });
-
