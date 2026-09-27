@@ -1,0 +1,4859 @@
+{
+  "Paper I": {
+    "General Anatomy": {
+      "Basic Tissues": [
+        {
+          "type": "Short Essays",
+          "question": "Describe the structure and function of skin with its appendages.",
+          "year": "May 23"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Connective tissue fibres",
+          "year": "Feb 14"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Compound glands",
+          "year": "Aug 11"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Types of cells seen in thymus.",
+          "year": "May 23"
+        }
+      ],
+      "Bones & Joints": [
+        {
+          "type": "Long Essays",
+          "question": "Classify joints. Give the structure of synovial joint with an example.",
+          "year": "May 23"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Describe the structure of synovial joints. Classify synovial joints with examples.",
+          "year": "Jan 24"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Classify cartilage with suitable examples. Describe the structure of elastic cartilage.",
+          "year": "Feb 22"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Classify synovial joints with an example for each",
+          "year": "Jul 24"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Types of epiphysis",
+          "year": "Jan 24"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Sesamoid bone",
+          "year": "Jul 23"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Periosteum",
+          "year": "Feb 23"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Pivot joint",
+          "year": "Feb 22"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Blood supply of long bone.",
+          "year": "Feb 22, Aug 15"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Epiphyseal plate",
+          "year": "Nov 20"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Fibrous joints",
+          "year": "Feb 15, Feb 16, Jul 17"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Epiphysis",
+          "year": "Feb 16"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Osteon",
+          "year": "Jan 18"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Cells of bone tissues",
+          "year": "Feb 17"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Anterior fontanelle",
+          "year": "Aug 18"
+        },
+        {
+          "type": "MCQs",
+          "question": "Single response: Which of the following is an example of a cartilaginous joint - a) Humeroulnar joint b) Intervertebral disc joint c) Cranial sutural joint d) Tibiotalar joint",
+          "year": ""
+        },
+        {
+          "type": "MCQs",
+          "question": "Multiple response: Which of the following statement/s is/are true about sesamoid bones - 1) They are bony nodules found in tendons or joint capsules 2) They ossify before birth 3) They have no periosteum 4) They help to minimize friction - a) 1,2,3 b) 1,3,4 c) 1,2,4 d) 1,2",
+          "year": "Jul 24, Oct 24"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Two sites of occurrence of elastic cartilage",
+          "year": "Nov 23"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Name any two types of epiphysis",
+          "year": "May 23"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Example of atavistic epiphysis",
+          "year": "Feb 23"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Horizontal long bone.",
+          "year": "May 22"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Two sesamoid bones",
+          "year": "Aug 21"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Any two types of bone cells",
+          "year": "Aug 21"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Two examples of pivot joint",
+          "year": "March 21"
+        }
+      ],
+      "Muscles": [
+        {
+          "type": "Short Notes",
+          "question": "Sarcomere",
+          "year": "Feb 23"
+        }
+      ],
+      "Cardiovascular System": [
+        {
+          "type": "Short Essays",
+          "question": "Describe the various types and structure-function correlation of blood vessels.",
+          "year": "Nov 20"
+        }
+      ],
+      "Nervous System": [
+        {
+          "type": "Short Notes",
+          "question": "Neuroglia",
+          "year": "Aug 18, Feb 16"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Types of neuroglial cells",
+          "year": "Aug 21"
+        }
+      ],
+      "General Embryology": [
+        {
+          "type": "Short Essays",
+          "question": "Describe the formation, fate and embryological significance of primitive streak",
+          "year": "Oct 24"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Describe the process of implantation and common abnormal sites of implantation",
+          "year": "Jul 24"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Describe the process of neurulation. Name the vesicles in the cranial expanded part of the neural tube and mention their fate.",
+          "year": "Jul 24"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Development of placenta and its associated anomalies.",
+          "year": "Jul 24, Mar 21, Aug 15, Aug 14"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Formation of placenta",
+          "year": "Jan 24"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Formation and fate of notochord.",
+          "year": "Nov 23, May 23"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Graafian follicle",
+          "year": "Jul 23"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Process of implantation and its clinical aspects",
+          "year": "Feb 23"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Implantation",
+          "year": "Feb 22"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Divisions and derivatives of intraembryonic mesoderm.",
+          "year": "Feb 22"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Notochord",
+          "year": "Aug 21"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Stages and consequences of fertilisation",
+          "year": "Oct 24"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Placenta",
+          "year": "Mar 21"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Intra embryonic mesoderm",
+          "year": "Nov 23"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Neural crest",
+          "year": "Nov 20, Jan 20, Aug 13"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Describe fertilization and its results",
+          "year": "Aug 16"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Development of interatrial septum",
+          "year": "Oct 24"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Formation and fate of primitive streak",
+          "year": "Jan 24, Aug 19"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Parts of blastocyst.",
+          "year": "Jan 24"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Oogenesis",
+          "year": "Jan 24, Aug 21"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Subdivisions and derivatives of neural tube",
+          "year": "Nov 23, Sep 21, Aug 16"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Formation and structure of umbilical cord.",
+          "year": "May 23"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Embryological basis of twinning",
+          "year": "May 23"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Neural crest cells.",
+          "year": "Feb 23"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Spermatogenesis.",
+          "year": "May 22"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Decidua",
+          "year": "Feb 22"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Yolk sac",
+          "year": "Nov 20"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Graafian follicle",
+          "year": "May 22"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Zona pellucida",
+          "year": "Aug 19"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Right atrial development",
+          "year": "Jan 19"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Inter ventricular septum",
+          "year": "Aug 16"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Somites",
+          "year": "Aug 18, Feb 16"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Neural crest derivatives",
+          "year": "Mar 21"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Chorionic villi",
+          "year": "Aug 16, Feb 17, Aug 18"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Development of lungs",
+          "year": "Feb 16"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Dizygotic twins",
+          "year": "Feb 15, Feb 16"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Fertilisation",
+          "year": "Feb 14"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Neural tube",
+          "year": "Feb 14"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Spermiogenesis",
+          "year": "Aug 13"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Implantation",
+          "year": "Aug 18, Feb 17, Aug 11"
+        },
+        {
+          "type": "MCQs",
+          "question": "Single response: At the caudal end of the primitive streak, ectoderm and endoderm meet at the: a) Coelom b) Cloacal membrane c) Neural groove d) Notochord",
+          "year": "Jul 24"
+        },
+        {
+          "type": "MCQs",
+          "question": "Single response: The ovum is surrounded by a non-cellular layer known as the: a) Corona radiata b) Theca folliculi c) Zona pellucida d) Cumulus oophorus",
+          "year": "Jul 24"
+        },
+        {
+          "type": "MCQs",
+          "question": "Multiple response: Which of the following statement/s is/are true about notochord - 1) Forms the central axis of embryonic disc 2) Develops between prochordal plate & primitive streak from Hensen's node 3) Its remnants are seen in the form of annulus fibrosus of intervertebral discs 4) Induces formation of neural tube - a) 1,2,3 b) 1,3,4 c) 1,2,4 d) 2,3",
+          "year": "Jul 24"
+        },
+        {
+          "type": "MCQs",
+          "question": "Multiple response: Origin from neural crest: i. Schwann cells ii. Neural tube iii. Melanoblasts iv. Suprarenal medulla - a) i,iii b) i,iii,iv c) i,ii,iv d) ii,iii",
+          "year": "Oct 24"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Types of decidua",
+          "year": "Nov 23"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Developmental sources of interatrial septum.",
+          "year": "Nov 23, May 22, Feb 22"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Maternal and fetal contribution to development of placenta",
+          "year": "Feb 23"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Structure that develops from left horn of sinus venosus",
+          "year": "Feb 23"
+        },
+        {
+          "type": "Old Questions",
+          "question": "16 celled stage of embryo",
+          "year": "Feb 23"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Structures present in tertiary villus of placenta.",
+          "year": "May 22"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Structure hooking ligamentum arteriosum",
+          "year": "May 22"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Name two fetal membranes",
+          "year": "May 22"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Sites of ectopic pregnancy.",
+          "year": "Feb 22"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Parts of placenta.",
+          "year": "Feb 22"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Derivatives of intraembryonic coelom",
+          "year": "Aug 21"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Sources of development of arch of aorta",
+          "year": "Mar 21, Aug 21"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Any four derivatives of neural crest cells",
+          "year": "Mar 21"
+        }
+      ],
+      "Genetics": [
+        {
+          "type": "Short Essays",
+          "question": "With the help of pedigree charts describe the various modes of inheritance involving the sex chromosomes. Give suitable examples for each type.",
+          "year": "Oct 24"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Describe the structure of chromosomes with classification. Explain any three structural anomalies of chromosomes",
+          "year": "Jul 24"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Karyotyping",
+          "year": "Nov 23"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Describe the technique of karyotyping with its applications.",
+          "year": "Feb 23"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Numerical aberrations of chromosomes",
+          "year": "Feb 23"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Chromosomal aberrations.",
+          "year": "Feb 22"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Describe various modes of inheritance with examples",
+          "year": "Aug 21"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Mendelian inheritance",
+          "year": "Mar 21, Jan 18, Jul 17"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Down syndrome",
+          "year": "Jul 24"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Explain autosomal dominant inheritance in genetic diseases",
+          "year": "Jul 24"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Karyotype and clinical features of Klinefelter syndrome",
+          "year": "Jul 24"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Karyotyping",
+          "year": "Jan 24, Jul 23, Jan 20, Nov 20"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Define Karyotype. What are the steps of Karyotyping.",
+          "year": "Jan 24"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Trisomy 21",
+          "year": "Feb 23"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Describe structure of chromosome with classification.",
+          "year": "May 22"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Chromosomes and its classification",
+          "year": "Feb 22"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Name the structural chromosomal abnormalities",
+          "year": "Sep 21"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Barr body",
+          "year": "Sep 21, Feb 17, Feb 15, Aug 14"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Genetic counselling",
+          "year": "Mar 21"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Chromosomal aberrations",
+          "year": "Aug 19"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Numerical chromosomal abnormalities",
+          "year": "Aug 18"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Down syndrome",
+          "year": "Aug 15, Aug 16"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Reciprocal translocation",
+          "year": "Feb 14"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Klinefelter's syndrome",
+          "year": "Aug 13"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Turner's syndrome",
+          "year": "Jan 19, Feb 16, Aug 11"
+        },
+        {
+          "type": "MCQs",
+          "question": "Single response: Mitochondrial DNA in humans is - a) Exclusively inherited maternally b) Exclusively inherited paternally c) Inherited both paternally and maternally d) Not inherited",
+          "year": "Oct 24"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Name the chromosomal defect in the Down's syndrome",
+          "year": "Nov 23"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Stage of meiosis I at which oogenesis is arrested",
+          "year": "May 23"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Two diseases showing autosomal dominant inheritance",
+          "year": "Feb 23"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Name two autosomal recessive disorders.",
+          "year": "May 22"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Karyotype of Turner's syndrome.",
+          "year": "Feb 22"
+        }
+      ],
+      "General Histology": [
+        {
+          "type": "Short Essays",
+          "question": "Describe the structure of transitional epithelium with site of occurrence and its functional significance",
+          "year": "Oct 24"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Illustrate and describe the microscopic anatomy of the large artery and medium-sized artery highlighting how their structure is suited for their function",
+          "year": "Jul 24"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Histology of thin skin. Write a note on appendages of skin.",
+          "year": "Jan 24"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Explain the microscopic structure of thin skin",
+          "year": "Nov 23"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Classify muscular tissue with suitable examples. Describe the structure of skeletal muscle.",
+          "year": "Mar 21"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Transitional epithelium",
+          "year": "Jul 24, Jan 20, Jul 24"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Microscopic structure of peripheral nerve",
+          "year": "Jan 24, Feb 22, Nov 20, Feb 15, Aug 16"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Microscopic structure of thymus",
+          "year": "Jan 24"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Histologic difference between Cardiac and Skeletal Muscles.",
+          "year": "Nov 23, Aug 21"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Microscopic structure of spleen",
+          "year": "Jul 23"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Microscopic structure of hyaline cartilage",
+          "year": "Feb 23"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Microscopic structure of large artery and correlate with its function",
+          "year": "Feb 23, Mar 21, Aug 18"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Microscopic Structure of compact bone",
+          "year": "Feb 23"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Microscopic structure of Elastic artery",
+          "year": "Sep 21"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Labeled diagram of histology of hyaline cartilage",
+          "year": "Aug 19"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Microscopic structure of skeletal muscle",
+          "year": "Jan 19"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Large artery",
+          "year": "Feb 17"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Lymph node",
+          "year": "Aug 15, Feb 16"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Muscular artery",
+          "year": "Aug 14"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Bone",
+          "year": "Feb 14"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Spinal ganglion",
+          "year": "Aug 11, Jan 18"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Hyaline cartilage",
+          "year": "Aug 12"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Hyaline cartilage and locations",
+          "year": "Aug 14"
+        },
+        {
+          "type": "MCQs",
+          "question": "Assertion-Reason: (A) Skeletal muscle fibers are long cylindrical and multinucleated. (R) Each fiber is formed by the fusion of many myoblasts.",
+          "year": "Jul 24"
+        },
+        {
+          "type": "MCQs",
+          "question": "Multiple response: Regarding the microscopic structure of lymph node - i. Cortex, paracortex and medulla can be recognised ii. An eccentric arteriole is present within the lymphatic nodules iii. A subcapsular sinus can be recognised iv. Malpighian corpuscles can be recognised - a) i,ii,iii b) i,iii c) i,ii,iv d) ii,iii",
+          "year": "Jul 24"
+        },
+        {
+          "type": "MCQs",
+          "question": "Multiple response: Stratified squamous nonkeratinised epithelium is found in - i. Cornea ii. Epiglottis iii. Vas deferens iv. Vocal cords - a) i,ii,iii b) i,ii c) i,iv d) i,ii,iv",
+          "year": "Jul 24"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Layers in a medium sized artery",
+          "year": "Jan 24"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Name the epithelium lining blood vessel.",
+          "year": "Feb 22"
+        }
+      ]
+    },
+    "Upper Limb": {
+      "Pectoral Region": [
+        {
+          "type": "Long Essays",
+          "question": "Describe the mammary gland under the following headings: extent, deep relations, gross structure, arterial supply and lymphatics.",
+          "year": "Jul 24"
+        },
+        {
+          "type": "Long Essays",
+          "question": "A 55-year-old female presented to general surgery outpatient department with pain in left axilla and swelling of left upper limb... Which group of axillary lymph nodes could be enlarged in this patient. Describe the anatomical groups of axillary lymph nodes and specify their areas of drainage. Describe the lymphatic drainage of mammary gland. Enumerate the boundaries and contents of axilla.",
+          "year": "Feb 23"
+        },
+        {
+          "type": "Long Essays",
+          "question": "A painter experienced difficulty in raising the right arm upwards... Name the muscle tested in this person to detect the injury to which nerve. What is the name of the deformity. What is the origin and root value of this nerve. How this nerve gets damaged. What are the attachments and actions of this muscle. (Answer: Serratus anterior)",
+          "year": ""
+        },
+        {
+          "type": "Long Essays",
+          "question": "A 45 years old nulliparous woman reported to the OPD with two small palpable nodules in her left axilla... What could be the probable diagnosis? What could be the nodule in the axilla and why? Describe the blood supply and lymphatic drainage of the breast. Mention the development and developmental anomalies of the breast. (Diagnosis: Breast carcinoma)",
+          "year": ""
+        },
+        {
+          "type": "Short Essays",
+          "question": "Lymphatic drainage of mammary gland",
+          "year": "Jan 24"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Serratus anterior",
+          "year": "Feb 22"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Lymphatic drainage of mammary gland and its applied significance.",
+          "year": "Sep 21"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Name four structures piercing clavi-pectoral fascia",
+          "year": "Mar 21"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Pectoralis minor",
+          "year": "Nov 20"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Lymphatic drainage of breast",
+          "year": "Jul 24, Aug 19, Aug 11"
+        },
+        {
+          "type": "MCQs",
+          "question": "Assertion-Reason: A) Examination of breast in a case of breast carcinoma reveals peau d'orange appearance of skin. R) Retraction of pits of hair follicles beneath edematous skin following blockage of lymphatics draining the skin.",
+          "year": "Oct 24"
+        },
+        {
+          "type": "MCQs",
+          "question": "Assertion-Reason: (A) Dissection of lymph nodes near the subscapular artery may result in paralysis of the latissimus dorsi muscle. (R) The lower subscapular nerve supplies the latissimus dorsi muscle.",
+          "year": "Jul 24"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Two structures piercing Clavipectoral fascia.",
+          "year": "Jan 24"
+        },
+        {
+          "type": "Old Questions",
+          "question": "The nerve injury which leads to winging of scapula.",
+          "year": "Feb 22"
+        }
+      ],
+      "Axilla": [
+        {
+          "type": "Long Essays",
+          "question": "Assisted delivery was required during the birth of a baby at term. The manoeuvre involved an unusually wide stretching at the neck shoulder angle... Describe formation and branches of brachial plexus. Explain the anatomical basis of the above lesion.",
+          "year": "Jul 17"
+        },
+        {
+          "type": "Long Essays",
+          "question": "Describe the brachial plexus under following headings. Formation, Relations, Branches, Applied anatomy.",
+          "year": "Mar 21"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Axillary artery",
+          "year": "Feb 14, Jan 19"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Brachial plexus",
+          "year": "Feb 17, Aug 13"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Axillary lymph nodes",
+          "year": "Aug 15, Aug 12, Nov 20"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Axillary artery",
+          "year": "Jan 18"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Erb's point",
+          "year": "Feb 15"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Erb's paralysis",
+          "year": "Feb 23"
+        },
+        {
+          "type": "Draw and Label",
+          "question": "Relations of first part of axillary artery",
+          "year": "Aug 15, Aug 13"
+        },
+        {
+          "type": "Draw and Label",
+          "question": "Brachial plexus",
+          "year": "Jul 24"
+        },
+        {
+          "type": "MCQs",
+          "question": "Assertion-Reason: (A) The axillary vein can freely expand during increased venous return. (R) There is no or very thin axillary sheath around the axillary vein.",
+          "year": "Jul 24"
+        }
+      ],
+      "Deltoid and Scapular Region": [
+        {
+          "type": "Short Essays",
+          "question": "Axillary nerve",
+          "year": "Feb 23"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Intra muscular spaces of scapular region",
+          "year": "Aug 14"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Deltoid muscle and its deep relations",
+          "year": "Aug 13"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Trapezius muscle",
+          "year": "Jul 24"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Quadrangular intermuscular space",
+          "year": "Jul 23"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Biceps brachii muscle",
+          "year": "Feb 23"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Axillary nerve",
+          "year": "Mar 21"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Two contents of quadrangular space",
+          "year": "Nov 23"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Contents of quadrangular space.",
+          "year": "Feb 22"
+        }
+      ],
+      "Shoulder Joint": [
+        {
+          "type": "Long Essays",
+          "question": "Describe shoulder joint under the following headings:- a) Articular surfaces b) Structures stabilizing the joint c) Movements and muscles producing each movement d) Applied importance",
+          "year": "Oct 24"
+        },
+        {
+          "type": "Long Essays",
+          "question": "A patient was brought with complaints of inability to abduct the right arm... a) Name the joint involved b) Write on the ligaments of the joint c) Write on the relations of the joint d) Write on the movements of the joint with muscles helping in the movements",
+          "year": "Jan 24"
+        },
+        {
+          "type": "Long Essays",
+          "question": "A 50 years old man came to the casualty with complaints of pain at the shoulder joint...",
+          "year": "Sep 21"
+        },
+        {
+          "type": "Long Essays",
+          "question": "A football player dislocated his right shoulder while playing... Mention the anatomical features making the shoulder joint more prone for dislocation. What is the cause for flattening of shoulder in this case and difficulty to abduct? Name the movements occurring at the shoulder joint and muscles producing these movements.",
+          "year": "Feb 16"
+        },
+        {
+          "type": "Long Essays",
+          "question": "A football player fell heavily and dislocated his right shoulder joint...",
+          "year": "Jul 23, May 23"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Ligaments of shoulder joint",
+          "year": "Feb 15, Feb 17"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Rotator cuff of shoulder joint",
+          "year": "Aug 12"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Rotator cuff of shoulder joint",
+          "year": "Aug 21, Aug 18, Jul 24"
+        },
+        {
+          "type": "Draw and Label",
+          "question": "Sagittal section through shoulder",
+          "year": "Feb 22"
+        }
+      ],
+      "Arm": [
+        {
+          "type": "Long Essays",
+          "question": "A Patient was brought to the clinic with a history of giddiness since one week...",
+          "year": "Aug 18"
+        },
+        {
+          "type": "Long Essays",
+          "question": "A 35-year-old rowdy sheeter involved in a fight received a deep cut in the middle of the back of his right arm...",
+          "year": "Aug 18, Aug 16"
+        },
+        {
+          "type": "Long Essays",
+          "question": "Describe cubital fossa under following headings.",
+          "year": "Feb 22"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Cubital fossa",
+          "year": "Feb 14"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Boundaries and contents of cubital fossa",
+          "year": "Jul 23"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Cephalic vein",
+          "year": "Feb 16, Aug 12, Aug 11"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Brachial artery",
+          "year": "Nov 20, Jul 17"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Median cubital vein",
+          "year": "Jan 24"
+        },
+        {
+          "type": "Draw and Label",
+          "question": "Section through middle of arm",
+          "year": "May 22"
+        },
+        {
+          "type": "Draw and Label",
+          "question": "Anastomosis around elbow joint",
+          "year": "Mar 21"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Three superficial veins of upper limb.",
+          "year": "Jan 24"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Vein present on the roof of cubital fossa.",
+          "year": "May 22"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Name any four branches of brachial artery",
+          "year": "Mar 21"
+        }
+      ],
+      "Forearm": [
+        {
+          "type": "Short Essays",
+          "question": "Movements and the muscles involved in causing each movement at the wrist joint",
+          "year": "Nov 23"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Radio-ulnar joints.",
+          "year": "May 22"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Supination and pronation.",
+          "year": "Feb 22"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Posterior interosseous nerve",
+          "year": "Mar 21"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Extensor retinaculum of hand",
+          "year": "Jul 24, Aug 11"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Supination and pronation",
+          "year": "Jan 24, Feb 16"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Name the muscles supplied by ulnar nerve in the forearm",
+          "year": "Aug 21"
+        }
+      ],
+      "Hand": [
+        {
+          "type": "Short Essays",
+          "question": "Flexor retinaculum of hand and its clinical implications",
+          "year": "Aug 21, Aug 18"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Carpometacarpal joint of thumb",
+          "year": "Nov 20"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Ulnar nerve in hand",
+          "year": "Aug 19, Feb 15"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Palmar fascial spaces",
+          "year": "Feb 17, Aug 16"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Superficial palmar arch",
+          "year": "Aug 15"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Describe boundaries and contents of anatomical snuff box",
+          "year": "Oct 24, Nov 23"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Claw hand",
+          "year": "Jul 23"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Flexor retinaculum of hand",
+          "year": "May 23"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Anatomical basis of claw hand.",
+          "year": "Feb 22"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Palmar aponeurosis",
+          "year": "Feb 16"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Superficial palmar arch",
+          "year": "Sep 21, Jan 19, Jan 18"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Midpalmar spaces",
+          "year": "Mar 21, Jan 20"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Wrist joint",
+          "year": "Mar 21"
+        },
+        {
+          "type": "Short Notes",
+          "question": "First carpometacarpal joint",
+          "year": "Aug 18, Feb 14"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Deep palmar arch",
+          "year": "Aug 14"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Interossei of hand",
+          "year": "Feb 15"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Carpal tunnel",
+          "year": "Aug 15"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Adductor pollicis",
+          "year": "Feb 16"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Lumbricals",
+          "year": "Aug 12"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Anatomical snuff box",
+          "year": "Aug 12"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Flexor retinaculum",
+          "year": "Jul 23, Aug 19"
+        },
+        {
+          "type": "Draw and Label",
+          "question": "Diagram of dorsum of hand showing sensory innervation",
+          "year": "Feb 15, Aug 12, Aug 11"
+        },
+        {
+          "type": "Draw and Label",
+          "question": "Oblique section through hand to show fascial spaces",
+          "year": "Feb 17, Aug 13"
+        },
+        {
+          "type": "Draw and Label",
+          "question": "Palmar arterial arches",
+          "year": "Jan 24"
+        },
+        {
+          "type": "Draw and Label",
+          "question": "Superficial and deep palmar arches of hand",
+          "year": "May 23"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Action of Lumbricals in the hand.",
+          "year": "Jan 24"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Floor of anatomical snuff box",
+          "year": "May 23"
+        }
+      ],
+      "Nerves (Upper Limb)": [
+        {
+          "type": "Long Essays",
+          "question": "A 45 year old man was bought to the casualty following a road traffic accident. He had pain and swelling over his right arm... Name the nerve injured in this patient. Give the root value of the nerve. Describe the course of the nerve...",
+          "year": "May 22"
+        },
+        {
+          "type": "Long Essays",
+          "question": "A 45 year old man was bought to the casualty with a fracture of shaft of the humerus. On examination he had impaired extension of the wrist...",
+          "year": "Jan 19"
+        },
+        {
+          "type": "Long Essays",
+          "question": "A 25 year old cricket player sustained injury in his left arm... Injury to which nerve produce inability to extend wrist. Briefly describe the origin, course and distribution of the nerve involved...",
+          "year": "Aug 16"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Radial nerve-root value, course and branches in axilla, arm and cubital fossa. What is Saturday night palsy",
+          "year": "Jan 24"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Radial nerve",
+          "year": "Feb 22"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Median nerve",
+          "year": "Feb 16"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Ulnar nerve",
+          "year": "Aug 16"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Explain the anatomical basis of carpal tunnel syndrome",
+          "year": "Jul 24"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Compartments deep to extensor retinaculum of hand",
+          "year": "Feb 23"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Anatomical basis of claw hand.",
+          "year": "Feb 22"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Anterior interosseous nerve",
+          "year": "Jan 19"
+        },
+        {
+          "type": "MCQs",
+          "question": "Case scenario: A 36 year-old male after a weekend party came home and slept off seated on a chair...",
+          "year": "Oct 24"
+        },
+        {
+          "type": "MCQs",
+          "question": "Multiple response: in the arm - Brachialis may be partly innervated by the radial nerve...",
+          "year": "Jul 24"
+        },
+        {
+          "type": "Old Questions",
+          "question": "The nerve that continues as lateral cutaneous nerve of forearm.",
+          "year": "Jan 24"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Two muscles supplied by anterior interosseous nerve",
+          "year": "Nov 23"
+        },
+        {
+          "type": "Old Questions",
+          "question": "What is the root value of radial nerve",
+          "year": "Nov 23"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Name the muscles supplied by axillary nerve.",
+          "year": "May 23"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Nerve passing superficial to flexor retinaculum of hand",
+          "year": "Feb 23"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Contents of anatomical snuff box",
+          "year": "Feb 23"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Cutaneous nerve supply of lateral border of forearm.",
+          "year": "May 22"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Nerve compressed in Saturday night palsy",
+          "year": "Aug 21"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Nerve involved in carpal tunnel syndrome",
+          "year": "Mar 21"
+        }
+      ]
+    },
+    "Head and Neck": {
+      "Bones": [
+        {
+          "type": "Short Notes",
+          "question": "Structures passing through foramen magnum",
+          "year": "Jul 24"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Jugular foramen",
+          "year": "Jan 24, Jul 23"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Styloid process",
+          "year": "Feb 23, Jan 19, Feb 17"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Foramen Magnum",
+          "year": "Feb 22"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Structures passing through the foramen ovale",
+          "year": "Jan 24"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Stapedius attached to this structure.",
+          "year": "May 23"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Name two structures passing through foramen ovale",
+          "year": "Aug 21"
+        }
+      ],
+      "Scalp": [
+        {
+          "type": "Short Essays",
+          "question": "Name the layers of the scalp. Why do scalp wounds bleed profusely.",
+          "year": "Jul 24"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Layers of scalp with clinical implications. Which layer is considered the dangerous layer and why.",
+          "year": "Mar 21"
+        },
+        {
+          "type": "MCQs",
+          "question": "Assertion-Reason: A) Scalp wounds are painful but heal quickly. R) Scalp is richly supplied by sensory nerves and is highly vascular.",
+          "year": "Oct 24"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Dangerous layer of scalp.",
+          "year": "May 23, May 22"
+        }
+      ],
+      "Face": [
+        {
+          "type": "Short Essays",
+          "question": "Muscles of mastication",
+          "year": "May 23"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Temporomandibular joint",
+          "year": "Feb 23"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Orbicularis oculi muscle",
+          "year": "Jul 17"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Orbicularis oculi muscle",
+          "year": "Aug 19"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Extra cranial branches of facial nerve",
+          "year": "Aug 19"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Facial artery",
+          "year": "Jan 19"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Routes of spread of infection from dangerous area of face to cavernous sinus",
+          "year": "Aug 15"
+        },
+        {
+          "type": "Draw and Label",
+          "question": "Distribution of cutaneous nerves to head and neck",
+          "year": "Mar 21, Aug 15"
+        },
+        {
+          "type": "MCQs",
+          "question": "Assertion-Reason: A) Muscles of mastication are innervated by facial nerve. R) Muscles of mastication develop from mesoderm of 1st pharyngeal arch.",
+          "year": "Oct 24"
+        }
+      ],
+      "Parotid Gland": [
+        {
+          "type": "Long Essays",
+          "question": "A 35 year old female came with a history of swelling below the ear lobule on right side. The swelling was associated with pain...",
+          "year": "Jul 23"
+        },
+        {
+          "type": "Long Essays",
+          "question": "A 50-year-old man presented with a history of rapidly growing painful swelling on the face below the ear lobule on the left side...",
+          "year": "Feb 23"
+        },
+        {
+          "type": "Long Essays",
+          "question": "A 70-yr-old man presented with a rapidly growing swelling below the ear lobule on the left side...",
+          "year": "Feb 16"
+        },
+        {
+          "type": "Long Essays",
+          "question": "A 58 year old man presented with rapidly growing swelling of parotid gland. On examination, there was an inability to close the left eye...",
+          "year": "Aug 15"
+        },
+        {
+          "type": "Long Essays",
+          "question": "A 55 year old man presented with a rapidly growing swelling on the left side of his face just below the ear lobule...",
+          "year": ""
+        },
+        {
+          "type": "Short Essays",
+          "question": "Parotid gland relations",
+          "year": "Jul 24"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Parotid gland",
+          "year": "Aug 19"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Anatomical basis of inability to close the right eye following surgery on right parotid gland",
+          "year": "Oct 24"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Structures related to antero lateral surface of parotid gland",
+          "year": "Aug 16"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Area of supply of Chorda Tympani nerve",
+          "year": "Feb 23"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Name any two structures within the parotid gland",
+          "year": "May 22"
+        }
+      ],
+      "Submandibular Gland": [
+        {
+          "type": "Long Essays",
+          "question": "A patient had a swelling below the lower jaw on the right side. The swelling increases in size during eating...",
+          "year": "Aug 16"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Parts, relations and nerve supply of submandibular salivary gland",
+          "year": "May 22"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Nerve supply of sub mandibular salivary gland",
+          "year": "Mar 21"
+        }
+      ],
+      "Thyroid Gland": [
+        {
+          "type": "Long Essays",
+          "question": "A 39-year-old female presents to the clinic for a routine health maintenance exam...",
+          "year": "May 23"
+        },
+        {
+          "type": "Long Essays",
+          "question": "A 30 years old female visited to the surgical out-patient department with complaints of pain and swelling in the lower part of front of neck...",
+          "year": "Feb 22"
+        },
+        {
+          "type": "Long Essays",
+          "question": "A 32 years old woman presented with a swelling infront of her neck and that was moving up and down during swallowing...",
+          "year": "Sep 21"
+        },
+        {
+          "type": "Long Essays",
+          "question": "A 65 year old woman came to the hospital with swelling in front of the neck...",
+          "year": "Feb 14"
+        },
+        {
+          "type": "Long Essays",
+          "question": "55 year old woman complained of midline nodular swelling in the front of her neck which moves on swallowing...",
+          "year": "Aug 11"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Thyroid gland-external features, relations, blood supply and development",
+          "year": "Aug 15"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Blood supply and microscopic structure of thyroid gland",
+          "year": "Jan 18, Feb 15"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Explain the surgical importance of thyroid gland",
+          "year": "Jul 24"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Blood supply of thyroid gland",
+          "year": "Feb 23"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Relations of thyroid gland",
+          "year": "Feb 15"
+        }
+      ],
+      "Fascias of Neck": [
+        {
+          "type": "Short Notes",
+          "question": "Carotid sheath.",
+          "year": "Sep 21"
+        },
+        {
+          "type": "MCQs",
+          "question": "Multiple response: Which of the following statement/s is/are true about carotid sheath",
+          "year": "Oct 24"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Formation of carotid sheath.",
+          "year": "Jan 24"
+        }
+      ],
+      "Triangles of Neck": [
+        {
+          "type": "Short Essays",
+          "question": "Boundaries and contents of carotid triangle",
+          "year": "Feb 22"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Boundaries and contents of sub occipital triangle",
+          "year": "Jan 24, Mar 21"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Sternocleido mastoid muscle",
+          "year": "Nov 23"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Boundaries and contents of posterior triangle of neck",
+          "year": "Feb 23, Feb 22"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Branches of external carotid artery",
+          "year": "Jan 24, Jul 23, Feb 14"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Contents of carotid triangle",
+          "year": "Aug 19"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Ansa cervicalis",
+          "year": "Aug 18, Feb 17, Feb 15"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Posterior triangle of neck",
+          "year": "Aug 12, Jan 19"
+        }
+      ],
+      "Infratemporal Fossa": [
+        {
+          "type": "Short Essays",
+          "question": "Mandibular nerve",
+          "year": "Aug 11"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Middle meningeal artery.",
+          "year": "Sep 21"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Temporalis muscle",
+          "year": "Jan 19"
+        }
+      ],
+      "Orbit": [
+        {
+          "type": "Short Essays",
+          "question": "Explain the attachments, nerve supply and actions of extra ocular muscles of eyeball",
+          "year": "Oct 24"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Extraocular muscles",
+          "year": "Jan 24, Aug 21, Mar 21, Feb 16"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Describe anatomical basis of Horner's syndrome.",
+          "year": "Feb 22"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Superior orbital fissure.",
+          "year": "Sep 21"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Branches of ophthalmic artery",
+          "year": "Nov 20"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Extraocular muscles with nerve supply",
+          "year": "Feb 17"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Lacrimal apparatus",
+          "year": "Aug 12"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Levator palpabrae superioris",
+          "year": "Aug 11"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Nerves supplying lateral rectus and medial rectus",
+          "year": "May 23"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Structures producing aquous humor",
+          "year": "May 22"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Structures passing through optic canal",
+          "year": "Oct 24"
+        }
+      ],
+      "Ear": [
+        {
+          "type": "Short Essays",
+          "question": "Tympanic membrane",
+          "year": "Nov 20"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Middle ear",
+          "year": "Aug 18"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Contents of middle ear cavity",
+          "year": "Jan 24"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Tympanic membrane",
+          "year": "Mar 21, Aug 14, Aug 11"
+        },
+        {
+          "type": "MCQs",
+          "question": "Case scenario: An 8-year-old boy gives history of chronic middle ear infection...",
+          "year": "Jul 24"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Lateral wall of middle ear.",
+          "year": "May 22"
+        }
+      ],
+      "Palate": [
+        {
+          "type": "Short Essays",
+          "question": "Muscles of soft palate and their nerve supply",
+          "year": "Jul 24, Nov 20, Aug 12"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Soft palate",
+          "year": "Feb 17"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Name two muscles of soft palate",
+          "year": "Nov 23"
+        }
+      ],
+      "Oral Cavity": [
+        {
+          "type": "Long Essays",
+          "question": "A 10-year-old girl underwent bilateral tonsillectomy for chronic tonsillitis...",
+          "year": "Jul 24"
+        },
+        {
+          "type": "Long Essays",
+          "question": "A 65-year-old man who was Chronic Smoker and Tobacco chewer for past 15 years, came to hospital with ulcerated lesion on the anterior part of the Tongue...",
+          "year": "Nov 23"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Lymphatic drainage of tongue.",
+          "year": "Jul 23"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Nerve supply of tongue",
+          "year": "Jul 24, Feb 22"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Dorsum of tongue",
+          "year": "Mar 21, Jul 17"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Sensory innervation of tongue",
+          "year": "Aug 16, Feb 14"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Structures over hyoglossus",
+          "year": "Aug 13"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Motor and sensory innervation of tongue",
+          "year": "Aug 21"
+        },
+        {
+          "type": "Draw and Label",
+          "question": "Hyoglossus muscle and its relations",
+          "year": ""
+        },
+        {
+          "type": "MCQs",
+          "question": "Assertion-Reason: A) Taste from the circumvallate papilla of tongue is carried by the chorda tympani nerve. R) Circumvallate papilla is located in the anterior two third of dorsal surface of tongue.",
+          "year": "Oct 24"
+        }
+      ],
+      "Nasal Cavity": [
+        {
+          "type": "Short Essays",
+          "question": "Lateral wall of nasal cavity",
+          "year": "May 22, Jul 23"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Draw diagram of nasal septum",
+          "year": "Aug 17"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Lateral wall of nasal cavity",
+          "year": "Feb 16, Aug 13"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Middle meatus of nose",
+          "year": "Aug 19"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Name the Sinuses opening into the Middle meatus",
+          "year": "Nov 23"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Two bones forming major part of nasal septum.",
+          "year": "May 23"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Name two openings in middle meatus of nose",
+          "year": "Feb 23"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Where does the naso lacrimal duct open in to",
+          "year": "Aug 21"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Openings in hiatus semi lunaris",
+          "year": "Mar 21"
+        }
+      ],
+      "Pharynx": [
+        {
+          "type": "Short Essays",
+          "question": "Auditory tube",
+          "year": "Jan 24, Sep 21, Jan 20"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Nasopharynx",
+          "year": "Nov 23, Jul 23"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Features of nasopharynx",
+          "year": "Feb 23"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Constrictors of pharynx",
+          "year": "Aug 18, Jan 18"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Auditory tube",
+          "year": "Feb 22"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Sphincter muscles of pharynx",
+          "year": "Feb 22"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Pharyngeal constrictions",
+          "year": ""
+        },
+        {
+          "type": "Old Questions",
+          "question": "Two features of lateral wall of nasopharynx",
+          "year": "Feb 23"
+        }
+      ],
+      "Larynx": [
+        {
+          "type": "Long Essays",
+          "question": "4 year old child swallowed a shirt button...",
+          "year": "Aug 12"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Interior of larynx",
+          "year": "Jul 17, Aug 13"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Boundaries and clinical significance of pyriform fossa.",
+          "year": "May 23"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Cavity of larynx",
+          "year": "Feb 22"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Interior of larynx",
+          "year": "Nov 20, Mar 21"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Piriform recess",
+          "year": "Aug 11"
+        },
+        {
+          "type": "Draw and Label",
+          "question": "Transverse section through the neck at level of cricoid (C6 vertebrae)",
+          "year": "May 22"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Name two cartilages of Larynx",
+          "year": "Nov 23"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Structures piercing thyrohyoid membrane",
+          "year": "Feb 22"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Name two unpaired laryngeal cartilages.",
+          "year": "Feb 22"
+        }
+      ],
+      "Blood Supply of Head & Neck": [
+        {
+          "type": "Short Essays",
+          "question": "Describe the formation, termination, tributaries and clinical importance of external jugular vein",
+          "year": "Oct 24"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Branches of subclavian artery",
+          "year": "Feb 22"
+        },
+        {
+          "type": "Old Questions",
+          "question": "External jugular vein formed by",
+          "year": "May 23"
+        }
+      ],
+      "Vertebral Joints": [
+        {
+          "type": "Short Notes",
+          "question": "Mention the type and movements at atlanto-occipital joints",
+          "year": "Feb 16"
+        }
+      ],
+      "Cranial Nerves": [
+        {
+          "type": "Long Essays",
+          "question": "A 20 years old female underwent right sided mastoidectomy following which she developed weakness of facial muscles on that side...",
+          "year": "Jan 20"
+        },
+        {
+          "type": "Long Essays",
+          "question": "A college student was bought to casualty with history of road traffic accident. Among other clinical findings there was evidence of injury of the facial nerve on the right side...",
+          "year": "May 23"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Facial nerve",
+          "year": "Aug 15"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Explain anatomical basis of facial nerve palsy",
+          "year": "Feb 23"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Explain anatomical basis of wry neck",
+          "year": "Feb 15"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Chorda tympani nerve",
+          "year": "May 22"
+        },
+        {
+          "type": "MCQs",
+          "question": "Single response: The following muscle is supplied by the glossopharyngeal nerve",
+          "year": "Oct 24"
+        },
+        {
+          "type": "MCQs",
+          "question": "Multiple response: The nucleus tractus solitarius is concerned with the following cranial nerves",
+          "year": "Jul 24"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Nerves supplying digastric muscle",
+          "year": "Jan 24"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Nucleus receiving taste sensation.",
+          "year": "May 23"
+        }
+      ]
+    },
+    "Neuroanatomy": {
+      "CNS - Overview": [
+        {
+          "type": "Draw and Label",
+          "question": "Median section of brain.",
+          "year": "Sep 21"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Name two contents of interpeduncular fossa.",
+          "year": "Feb 22"
+        }
+      ],
+      "Spinal Cord": [
+        {
+          "type": "Short Essays",
+          "question": "External features and blood supply of spinal cord",
+          "year": "Aug 21"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Spinal cord-gross features, blood supply, and vertebral levels of spinal segments",
+          "year": "Aug 12"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Coverings and blood supply of spinal cord",
+          "year": "Jul 24"
+        },
+        {
+          "type": "MCQs",
+          "question": "Single response: Transection of the lateral spinothalamic tract results in:",
+          "year": "Jul 24"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Two modifications of spinal piamater",
+          "year": "Nov 23"
+        }
+      ],
+      "Brain Stem": [
+        {
+          "type": "Short Notes",
+          "question": "Medial lemniscus",
+          "year": "Jan 18"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Crus cerebri",
+          "year": "Aug 11"
+        },
+        {
+          "type": "Draw and Label",
+          "question": "Transverse section of medulla at the level of olive",
+          "year": "Oct 24, Mar 21"
+        },
+        {
+          "type": "Draw and Label",
+          "question": "Transverse section of medulla oblongata at the level of sensory decussation",
+          "year": "Jul 24, Jan 24, May 22"
+        },
+        {
+          "type": "Draw and Label",
+          "question": "Transverse at the level of superior colliculus.",
+          "year": "Jul 24, Nov 23, Feb 22, Aug 13"
+        },
+        {
+          "type": "Draw and Label",
+          "question": "Transverse section of the pons at the level of Facial colliculus",
+          "year": "Jan 20, Jul 17, Feb 16"
+        },
+        {
+          "type": "Draw and Label",
+          "question": "Transverse section of medulla at the level of pyramidal decussation",
+          "year": "Aug 15, Feb 14"
+        },
+        {
+          "type": "Draw and Label",
+          "question": "Transverse section at the level of lower part of pons",
+          "year": "May 23"
+        },
+        {
+          "type": "Draw and Label",
+          "question": "Transverse section at the level of upper part of pons",
+          "year": "Feb 22"
+        },
+        {
+          "type": "Draw and Label",
+          "question": "Transverse section at the level of inferior colliculus of midbrain",
+          "year": "Jan 19"
+        },
+        {
+          "type": "MCQs",
+          "question": "Single response: Red nucleus is present in:",
+          "year": "Oct 24"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Four nuclei present in the pons",
+          "year": "Jan 24"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Name two cranial nerves at Ponto medullary junction",
+          "year": "Nov 23"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Two cranial nerve nuclei in midbrain.",
+          "year": "May 23"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Name two cranial nerve nuclei in lower part of pons",
+          "year": "Feb 23"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Name two cranial nerve nuclei in medulla oblongata",
+          "year": "Aug 21"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Structures producing facial colliculus",
+          "year": "Mar 21"
+        }
+      ],
+      "Cerebellum": [
+        {
+          "type": "Short Essays",
+          "question": "Gross anatomy of cerebellum with its nuclei",
+          "year": "May 23"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Cerebellar peduncles",
+          "year": "Jan 18"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Superior cerebellar peduncle",
+          "year": "Jan 20"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Middle cerebellar peduncle",
+          "year": "Aug 19"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Inferior cerebellar peduncle",
+          "year": "Feb 14"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Deep cerebellar nuclei",
+          "year": "Feb 16"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Nuclei of cerebellum",
+          "year": "Nov 23"
+        }
+      ],
+      "Ventricles of Brain": [
+        {
+          "type": "Short Essays",
+          "question": "Fourth ventricle",
+          "year": "Jan 24"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Parts boundaries and features of lateral ventricle.",
+          "year": "Feb 23, May 22"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Lateral ventricle",
+          "year": "Feb 22"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Floor of fourth ventricle",
+          "year": "Aug 15, Aug 14"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Tela choroidea of fourth ventricle",
+          "year": "May 23"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Floor of fourth ventricle of brain",
+          "year": "Feb 22"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Features in the floor of fourth ventricle.",
+          "year": "Jan 19"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Third ventricle",
+          "year": "Jan 18"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Tela choroidea of fourth ventricle",
+          "year": "Jul 23, Nov 20, Feb 17, Aug 11"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Lateral ventricle of brain",
+          "year": "Feb 23"
+        },
+        {
+          "type": "Draw and Label",
+          "question": "Floor of fourth ventricle",
+          "year": "Oct 24"
+        },
+        {
+          "type": "MCQs",
+          "question": "Assertion-Reason: A) Third ventricle is bounded on either side by thalamus and hypothalamus.",
+          "year": "Jul 24"
+        },
+        {
+          "type": "MCQs",
+          "question": "Assertion-Reason: (A) Cerebrospinal fluid is produced in the lateral ventricles of the brain.",
+          "year": "Jul 24"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Level of lumbar puncture",
+          "year": "Feb 23"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Two features in the floor of inferior horn of lateral ventricle",
+          "year": "Aug 21"
+        }
+      ],
+      "Cerebrum": [
+        {
+          "type": "Short Essays",
+          "question": "Describe the Sulci, Gyri, functional areas and blood supply on the superolateral surface of cerebrum",
+          "year": "Jan 24"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Describe the Functional areas and Blood supply of Superolateral surface of Cerebral hemisphere",
+          "year": "Nov 23"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Functional areas of supero-lateral surface of cerebrum",
+          "year": "Aug 14"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Thalamus",
+          "year": "Aug 11"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Broca's area",
+          "year": "May 22"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Functional areas of supero-lateral surface of cerebrum",
+          "year": "Feb 17"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Lateral sulcus of cerebrum",
+          "year": "Nov 20"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Pre central gyrus of cerebrum",
+          "year": "Aug 18"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Visual cortex",
+          "year": "Mar 21"
+        },
+        {
+          "type": "Draw and Label",
+          "question": "Fornix of brain",
+          "year": "Aug 13"
+        },
+        {
+          "type": "Draw and Label",
+          "question": "Supero-lateral surface of cerebral hemisphere",
+          "year": "Aug 12"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Name two complete sulci of cerebrum",
+          "year": "May 22"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Broadmann's area for auditory cortex.",
+          "year": "Feb 22"
+        }
+      ],
+      "White Matter of Brain": [
+        {
+          "type": "Long Essays",
+          "question": "A 60-year-old male known hypertensive is on anti-hypertensive drug for 5 years...",
+          "year": "Mar 21"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Classify white matter of the brain with an example of each.",
+          "year": "Jul 24"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Internal capsule of brain",
+          "year": "Jul 24"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Association fibres of the cerebrum",
+          "year": "Jul 23"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Internal capsule- parts, fibre constituents, arterial supply and applied anatomy.",
+          "year": "Feb 22"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Internal capsule - parts, relations, ascending and descending fibers and applied anatomy.",
+          "year": "Sep 21"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Describe internal capsule",
+          "year": "Aug 21, Aug 19, Feb 15"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Association fibres of brain",
+          "year": "Mar 21"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Internal capsule",
+          "year": "Jul 17"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Corpus callosum",
+          "year": "Aug 11"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Sulci and gyri of superolateral cerebral hemisphere.",
+          "year": "May 23, Feb 22"
+        },
+        {
+          "type": "MCQs",
+          "question": "Multiple response: Which of the following artery/arteries supply internal capsule",
+          "year": "Oct 24"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Name the type of fibers in corpus callosum.",
+          "year": "May 22"
+        }
+      ],
+      "Basal Ganglia and Limbic System": [
+        {
+          "type": "Short Essays",
+          "question": "Describe parts, relations, connections and clinical anatomy of basal ganglia",
+          "year": "Oct 24"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Basal nuclei",
+          "year": "Aug 16"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Basal ganglia",
+          "year": "Feb 14"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Corpus striatum",
+          "year": "Aug 13"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Parts of basal ganglia with functional importance",
+          "year": "Aug 21"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Components of basal nuclei",
+          "year": "Jan 24"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Basal nuclei",
+          "year": "Mar 21"
+        }
+      ],
+      "Blood Supply of Brain": [
+        {
+          "type": "Short Essays",
+          "question": "Formation and branches of circle of Willis",
+          "year": "Oct 24"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Circulous arterioses",
+          "year": "Mar 21"
+        },
+        {
+          "type": "Draw and Label",
+          "question": "Arterial supply and venous drainage of cerebral cortex",
+          "year": "Jan 20"
+        },
+        {
+          "type": "Draw and Label",
+          "question": "Circle of Willis",
+          "year": "Feb 23, Jan 19, Aug 18, Aug 14, Aug 12"
+        },
+        {
+          "type": "Draw and Label",
+          "question": "Blood supply of medial surface of cerebrum",
+          "year": "Aug 19"
+        },
+        {
+          "type": "Draw and Label",
+          "question": "Blood supply of inferior surface of cerebrum",
+          "year": "Aug 16"
+        }
+      ],
+      "Cranial Cavity and CSF Circulation": [
+        {
+          "type": "Long Essays",
+          "question": "A male patient was brought to emergency department with head injury following road traffic accident...",
+          "year": "Oct 24"
+        },
+        {
+          "type": "Long Essays",
+          "question": "Classify dural venous sinuses. Describe the Cavernous sinus under the following headings...",
+          "year": "Feb 23"
+        },
+        {
+          "type": "Long Essays",
+          "question": "A patient brought to casualty following road traffic accident had bulging of right eyeball with every radial pulse beat...",
+          "year": "Sep 21"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Confluence of venous sinuses",
+          "year": "Nov 20, Jan 19, Feb 17"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Dural venous sinuses.",
+          "year": "Aug 19"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Cavernous sinus - structures related, tributaries and applied aspects",
+          "year": "Aug 15"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Falx Cerebri",
+          "year": "Mar 21"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Tentorium cerebelli",
+          "year": "Jan 20"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Cisterna magna",
+          "year": "Feb 15"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Components of choroid plexus",
+          "year": "Feb 23"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Name two dural folds",
+          "year": "Feb 22"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Dural folds",
+          "year": "Mar 21"
+        }
+      ],
+      "Systemic Embryology (Upper Limb, Head & Neck, Neuroanatomy)": [
+        {
+          "type": "Short Essays",
+          "question": "Describe the development and congenital anomalies of palate",
+          "year": "Jan 24"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Describe embryological basis of nerve supply of tongue.",
+          "year": "Feb 23, Feb 22"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Development of face",
+          "year": "Aug 18"
+        },
+        {
+          "type": "Short Essays",
+          "question": "First brachial arch",
+          "year": "Aug 12"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Mesodermal derivatives of first pharyngeal arch",
+          "year": "Jul 24"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Development of face",
+          "year": "Jan 24"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Development of thyroid gland",
+          "year": "Jul 23, Aug 15, Jan 18"
+        },
+        {
+          "type": "Short Notes",
+          "question": "First pharyngeal pouch",
+          "year": "Mar 21"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Development of pitutary gland",
+          "year": "Nov 20, Aug 14, Jan 24, May 22"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Derivatives of pharyngeal pouches",
+          "year": "Aug 21"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Cleft palate",
+          "year": "Jan 20"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Development and congenital anomalies of face",
+          "year": "Jan 19"
+        },
+        {
+          "type": "Short Notes",
+          "question": "First brachial arch",
+          "year": "Jan 19"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Development of lips",
+          "year": "Jul 17, Aug 12"
+        },
+        {
+          "type": "MCQs",
+          "question": "Single response: All three germ layers are present in",
+          "year": "Oct 24"
+        },
+        {
+          "type": "MCQs",
+          "question": "Assertion-Reason: (A) The inferior parathyroid is derived from a more rostral pharyngeal pouch than the superior parathyroid.",
+          "year": "Jul 24"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Derivatives of third pharyngeal pouch",
+          "year": "Jan 24"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Two derivatives of diencephalon",
+          "year": "Jan 24, Nov 23"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Name two bones derived from 2nd Pharyngeal arch",
+          "year": "May 23"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Two derivatives of second pharyngeal arch",
+          "year": "Feb 23, May 22, Feb 22"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Derivatives of first pharyngeal pouch",
+          "year": "Aug 21"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Name the two processes from which upper lip develops",
+          "year": "Mar 21"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Name the nerve and a cartilage of third pharyngeal arch",
+          "year": "Mar 21"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Derivatives of diencephalon",
+          "year": "Nov 23"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Derivatives of second pharyngeal pouch",
+          "year": "May 22"
+        }
+      ],
+      "Systemic Histology (Upper Limb, Head & Neck, Neuroanatomy)": [
+        {
+          "type": "Short Essays",
+          "question": "Explain the microscopic structure of pituitary gland",
+          "year": "Nov 23, May 22"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Compare and contrast the microscopic features of lymph node and spleen",
+          "year": "Oct 24, Jul 24"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Histology of pituitary gland",
+          "year": "Jan 24, Feb 22, Nov 20, Feb 15, Aug 16"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Microscopic structure of thymus",
+          "year": "Jan 24, Mar 21, Aug 16"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Histology of thyroid",
+          "year": "Nov 23, Feb 22"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Microscopic structure of retina",
+          "year": "Feb 23"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Microscopic structure of cerebellum",
+          "year": "Sep 21"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Microscopic anatomy of pituitary gland.",
+          "year": "Mar 21"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Microscopic structure of cerebrum",
+          "year": "Aug 19, Aug 12"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Histology of palatine tonsil",
+          "year": "Aug 11"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Histology of cerebellum",
+          "year": "Nov 20, Aug 15"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Histology of thyroid gland and parathyroid glands",
+          "year": "Feb 17"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Histology of submandibular salivary gland",
+          "year": "Jul 17, Aug 14"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Spinal ganglion",
+          "year": "Feb 14"
+        },
+        {
+          "type": "MCQs",
+          "question": "Single response: Which of the following statement/s is/are true about microscopic structure of palatine tonsil",
+          "year": "Oct 24"
+        }
+      ]
+    },
+    "General Questions": {
+      "General Questions": [
+        {
+          "type": "Short Notes",
+          "question": "Describe briefly the process of cadaver maintenance in the Anatomy department.",
+          "year": "Oct 24"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Reflect on how to honor and extend gratitude to the cadaver as a Phase 1 MBBS student",
+          "year": "Jul 24"
+        },
+        {
+          "type": "MCQs",
+          "question": "Single response: Which of the following fixative is commonly used to preserve a cadaver",
+          "year": "Oct 24"
+        },
+        {
+          "type": "MCQs",
+          "question": "Single response: The chemical used as a preservative in embalming fluid is:",
+          "year": "Jul 24"
+        }
+      ]
+    }
+  },
+  "Paper II": {
+    "Thorax": {
+      "Bones": [
+        {
+          "type": "Short Notes",
+          "question": "Manubrium sterni",
+          "year": "Jan 20"
+        },
+        {
+          "type": "MCQs",
+          "question": "Assertion-Reason: A) During sternal puncture a thick needle is inserted into upper part of manubrium sternum.",
+          "year": "Jul 24"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Vertebral levels of sternal angle and inferior angle of scapula.",
+          "year": "Jan 24"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Two events occurring at sternal angle.",
+          "year": "May 23"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Two characteristics features of typical thoracic vertebra",
+          "year": "Aug 21"
+        }
+      ],
+      "Diaphragm": [
+        {
+          "type": "Long Essays",
+          "question": "A 23year-old pregnant woman who did not go for regular antenatal screening delivered a full-term baby...",
+          "year": "Jul 24"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Thoracic diaphragm",
+          "year": "Feb 22"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Openings in the abdominal diaphragm",
+          "year": "Jan 24"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Diaphragm.",
+          "year": "Sep 21"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Major openings of diaphragm",
+          "year": "Nov 20"
+        },
+        {
+          "type": "MCQs",
+          "question": "Multiple response: In addition to aorta, structures passing through the aortic opening of diaphragm are:",
+          "year": "Oct 24"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Structures passing through aortic opening in the diaphragm",
+          "year": "Jan 24"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Vertebral level of inferior venacaval opening in the diaphragm",
+          "year": "Feb 23, Aug 21"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Nerve supply of diaphragm",
+          "year": "Mar 21"
+        }
+      ],
+      "Wall and Respiration": [
+        {
+          "type": "Short Essays",
+          "question": "Describe the course, branches and applied anatomy of typical intercostal nerve",
+          "year": "Oct 24"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Typical intercostal space- Boundaries, Extent, Contents, Applied anatomy",
+          "year": "Aug 15"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Briefly explain the intercostal muscles.",
+          "year": "Feb 23"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Intercoastal vessels",
+          "year": "Aug 19, Jan 18"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Arch of aorta",
+          "year": "May 22"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Mechanics and types of respiration",
+          "year": "Jan 20"
+        },
+        {
+          "type": "Draw and Label",
+          "question": "Typical thoracic spinal nerve",
+          "year": "Jul 24"
+        },
+        {
+          "type": "Draw and Label",
+          "question": "Typical intercostal nerve",
+          "year": "Feb 22, Aug 21, Aug 14, Sep 21, Aug 18, Feb 17"
+        },
+        {
+          "type": "Draw and Label",
+          "question": "Typical intercostal space",
+          "year": "Jan 20, Nov 20"
+        },
+        {
+          "type": "Draw and Label",
+          "question": "Typical spinal nerve",
+          "year": "Feb 16"
+        },
+        {
+          "type": "MCQs",
+          "question": "Assertion-Reason: A) Internal thoracic artery can be used for coronary bypass surgery.",
+          "year": "Oct 24"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Where does the left superior intercostal vein terminate into.",
+          "year": "Jul 23"
+        }
+      ],
+      "Mediastinum": [
+        {
+          "type": "Long Essays",
+          "question": "Describe mediastinum under the following headings...",
+          "year": "May 23"
+        },
+        {
+          "type": "Long Essays",
+          "question": "A 52 year old man presented with shortness of breath and coughing up small volumes of blood...",
+          "year": "Feb 23"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Arch of aorta",
+          "year": "Aug 13"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Superior vena cava",
+          "year": "Aug 21"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Superior mediastinum",
+          "year": "Jul 24"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Thoracic duct",
+          "year": "Feb 16, Feb 14"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Superior vena cava",
+          "year": "Aug 16"
+        },
+        {
+          "type": "Draw and Label",
+          "question": "Transverse section at the level of T4 vertebra",
+          "year": "Feb 23"
+        },
+        {
+          "type": "Draw and Label",
+          "question": "TS of superior mediastinum showing the arrangement of its contents",
+          "year": "Feb 15, Aug 12, Jul 17"
+        },
+        {
+          "type": "Draw and Label",
+          "question": "Transverse section at sternal angle",
+          "year": "Aug 11"
+        },
+        {
+          "type": "MCQs",
+          "question": "Multiple response: Which of the following statement/s is/are true about thoracic duct",
+          "year": "Oct 24"
+        }
+      ],
+      "Heart": [
+        {
+          "type": "Long Essays",
+          "question": "A 60 year old man who is a smoker, alcoholic and known hypertensive suddenly developed pain in the left side of chest...",
+          "year": "Oct 24"
+        },
+        {
+          "type": "Long Essays",
+          "question": "Describe the Heart under the following headings:- a) External features b) Blood supply c) Coronary dominance d) Applied anatomy",
+          "year": "Nov 23"
+        },
+        {
+          "type": "Long Essays",
+          "question": "A 55-year-old male brought to the emergency department with complaints of severe squeezing chest pain...",
+          "year": "Feb 22"
+        },
+        {
+          "type": "Long Essays",
+          "question": "A 50 year old man was brought to medical casualty with complaints of sudden onset of pain in the chest with sweating...",
+          "year": "Feb 17"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Coronary arteries",
+          "year": "Jul 24, Aug 18, Feb 16, Aug 12, Aug 11"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Right atrium",
+          "year": "May 22"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Interior of right atrium",
+          "year": "Aug 21"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Blood supply of heart",
+          "year": "Jan 20"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Right atrium and its development",
+          "year": "Mar 21"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Pericardium",
+          "year": "Jan 19"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Draw a neat labelled diagram of the anterior view of arteries supplying the heart.",
+          "year": "Jul 24"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Pericardium",
+          "year": "Jan 24, Aug 19, Jan 18, Jul 17, Aug 14, Feb 15, Aug 13"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Describe the venous drainage of the heart.",
+          "year": "Jul 23"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Name tributaries of coronary sinus",
+          "year": "May 23"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Anatomical basis of ischaemic heart disease",
+          "year": "Sep 21"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Sinuses of pericardium",
+          "year": "Aug 21"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Coronary sinus",
+          "year": "Nov 20"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Left coronary artery",
+          "year": "Aug 15"
+        },
+        {
+          "type": "Draw and Label",
+          "question": "Sterno-costal surface of heart",
+          "year": "Sep 21, Mar 21"
+        },
+        {
+          "type": "Draw and Label",
+          "question": "Pericardial sinuses",
+          "year": "Jan 18"
+        },
+        {
+          "type": "Draw and Label",
+          "question": "Borders, surfaces and valves of heart",
+          "year": "Feb 14"
+        },
+        {
+          "type": "MCQs",
+          "question": "Single response: Feature of interior of right atrium is:",
+          "year": "Jul 24"
+        },
+        {
+          "type": "MCQs",
+          "question": "Assertion-Reason: A) Anterior cardiac veins open into coronary sinus.",
+          "year": "Oct 24"
+        },
+        {
+          "type": "MCQs",
+          "question": "Assertion-Reason: A) Left ventricular hypertrophy is a feature of Fallot's tetralogy of heart.",
+          "year": "Jul 24"
+        },
+        {
+          "type": "MCQs",
+          "question": "Multiple response: Which of the following statement/s is/are true about transverse sinus of pericardium?",
+          "year": "Jul 24"
+        },
+        {
+          "type": "Old Questions",
+          "question": "The chamber of heart that forms the apex of heart.",
+          "year": "Jan 24"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Boundaries of transverse sinus of pericardium.",
+          "year": "Feb 22"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Pericardial sinuses",
+          "year": "Aug 21"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Tributaries of coronary sinus of heart",
+          "year": "Mar 21"
+        }
+      ],
+      "Lungs": [
+        {
+          "type": "Long Essays",
+          "question": "A Patient was brought with a history of difficulty in breathing and breathlessness to a clinic...",
+          "year": "Feb 23"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Describe the recesses of pleura and their clinical significance.",
+          "year": "Jul 24"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Briefly describe bronchopulmonary segment. Name the broncho-pulmonary segments in each lung. Write about their surgical importance.",
+          "year": "Jan 24"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Bronchopulmonary segments",
+          "year": "May 22, Aug 17"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Broncho pulmonary segments of left lung",
+          "year": "Sep 21"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Pleura and pleural recesses",
+          "year": "Mar 21"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Medial surface of left lung",
+          "year": "Jan 18"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Pleura-parts, innervations and applied aspects",
+          "year": "Feb 16, Feb 15"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Pleural recesses",
+          "year": "Aug 13"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Mediastinal surface of right lung",
+          "year": "Aug 15"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Parietal pleura",
+          "year": "May 23"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Pleura",
+          "year": "Feb 22"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Left lung",
+          "year": "Mar 21"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Mediastinal surface of right lung",
+          "year": "Jan 19, Aug 16, Jul 17"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Bronchopulmonary segments",
+          "year": "Feb 22, Jan 24"
+        },
+        {
+          "type": "Draw and Label",
+          "question": "Mediastinal surface of right lung",
+          "year": "Jan 24, Nov 23"
+        },
+        {
+          "type": "Draw and Label",
+          "question": "Mediastinal surface of left lung",
+          "year": "May 22"
+        },
+        {
+          "type": "Draw and Label",
+          "question": "Medial surface of right lung",
+          "year": "Oct 24"
+        },
+        {
+          "type": "MCQs",
+          "question": "Single response: Which of the following pleura forms the pulmonary ligament",
+          "year": "Jul 24"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Stages in the development of lung.",
+          "year": "May 23"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Contents of hilum of left lung",
+          "year": "Mar 21"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Structures passing through hilum of left lung",
+          "year": "Nov 23"
+        }
+      ],
+      "Posterior Mediastinum": [
+        {
+          "type": "Short Essays",
+          "question": "Azygos vein",
+          "year": "Oct 24"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Thoracic part of oesophagus",
+          "year": "Mar 21, Feb 16"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Cervical and Thoracic part of oesophagus",
+          "year": "Jan 20"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Boundaries and contents of posterior mediastinum.",
+          "year": "Nov 23"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Esophagus - vertebral extent, constrictions, relations in thoracic cavity and applied aspects",
+          "year": "Aug 12"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Azygos vein",
+          "year": "Jul 24, Feb 23, Mar 21, Jul 17"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Two tributaries of Azygos vein",
+          "year": "Jan 24"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Vein crossing lateral to arch of aorta",
+          "year": "Feb 23"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Left brachiocephalic vein",
+          "year": "Feb 22"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Structures in thorax causing normal oesophageal constrictions.",
+          "year": "May 22"
+        }
+      ]
+    },
+    "Abdomen and Pelvis": {
+      "Anterior Abdominal Wall and Inguinal Canal": [
+        {
+          "type": "Long Essays",
+          "question": "A 65-year-old man with chronic history of cough and constipation complained he noticed a gradually increasing swelling in the right groin...",
+          "year": "Jan 24"
+        },
+        {
+          "type": "Long Essays",
+          "question": "Describe the inguinal canal under the following heading: Boundaries and contents, Anatomical protective mechanisms, Anatomical basis of two types of inguinal hernia, Coverings.",
+          "year": "May 23"
+        },
+        {
+          "type": "Long Essays",
+          "question": "A 70-year old man presented with a swelling in the inguinal region on both sides...",
+          "year": "Feb 23"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Boundaries and contents of inguinal canal",
+          "year": "Oct 24"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Rectus sheath-formation, contents & applied anatomy",
+          "year": "Mar 21"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Explain the formation & contents of rectus sheath",
+          "year": "Nov 20"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Inguinal canal - extend, boundaries, contents and applied anatomy",
+          "year": "Aug 14"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Rectus abdominis muscle",
+          "year": "Jan 24"
+        },
+        {
+          "type": "Short Notes",
+          "question": "What is the anatomical basis of umbilical hernia",
+          "year": "Nov 23"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Anatomical basis of inguinal hernia",
+          "year": "Feb 23"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Extent and contents of spermatic cord.",
+          "year": "Sep 21"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Spermatic cord",
+          "year": "Feb 16, Aug 15"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Rectus sheath",
+          "year": "Jan 18, Aug 18, Aug 16"
+        },
+        {
+          "type": "MCQs",
+          "question": "Case scenario: A 35 year old man noticed a gradually increasing swelling in the right groin...",
+          "year": "Oct 24"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Two branches of lumbar plexus with root value",
+          "year": "May 23"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Name the nerve passing through superficial inguinal ring",
+          "year": "Feb 23"
+        },
+        {
+          "type": "Old Questions",
+          "question": "What forms posterior wall of rectus sheath below the arcuate line",
+          "year": "Feb 23"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Bony attachments of inguinal ligament.",
+          "year": "Feb 22"
+        },
+        {
+          "type": "Old Questions",
+          "question": "What contributes to posterior wall of inguinal canal",
+          "year": "Aug 21"
+        }
+      ],
+      "Peritoneum": [
+        {
+          "type": "Short Essays",
+          "question": "Lesser sac",
+          "year": "Jul 24"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Epiploic foremen",
+          "year": "Jan 24"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Mention the boundaries of epiploic foramen and its clinical anatomy",
+          "year": "Jan 19, Feb 15"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Lesser sac",
+          "year": "Feb 22, Aug 14, Aug 13"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Clinical anatomy of pouch of Douglas",
+          "year": "Aug 21"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Recto uterine pouch with applied aspects",
+          "year": "Feb 16"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Sub diaphragmatic recesses",
+          "year": "Aug 19"
+        },
+        {
+          "type": "MCQs",
+          "question": "Assertion-Reason: A) Fluid collection in pouch of Douglas occurs in rupture of tubal pregnancy.",
+          "year": "Jul 24"
+        }
+      ],
+      "Stomach, Duodenum, Small Intestine and Large Intestine": [
+        {
+          "type": "Long Essays",
+          "question": "A 30-year-old man came with history of upper abdominal pain and vomiting. On examination tenderness in the epigastric region was noted...",
+          "year": "Jan 24"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Gross anatomy, interior, blood supply and development of second part of duodenum",
+          "year": "Aug 21"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Blood supply and lymphatic drainage of stomach.",
+          "year": "Jan 24, May 22"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Duodenum-parts, relations, openings, blood supply",
+          "year": "Jul 23"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Parts lymphatic drainage development of stomach",
+          "year": "Feb 23"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Stomach-relations, blood supply and lymphatic drainage",
+          "year": "Feb 22"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Second part of duodenum",
+          "year": "Nov 20, Feb 17"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Duodenum",
+          "year": "Jan 19"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Vermiform appendix",
+          "year": "Aug 11"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Explain the various positions of vermiform appendix and its applied anatomy",
+          "year": "Oct 24"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Lesser omentum",
+          "year": "Feb 23"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Superior mesenteric artery",
+          "year": "May 22, Jan 19, Jul 17, Aug 16"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Transpyloric plane",
+          "year": "Jul 17"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Ceoliac trunk",
+          "year": "Aug 15, Aug 14"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Lymphatic drainage of stomach",
+          "year": "Jan 18, Aug 14"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Second part of duodenum",
+          "year": "Aug 18"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Positions of appendix",
+          "year": "Jul 24"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Vermiform appendix",
+          "year": "Jan 24"
+        },
+        {
+          "type": "Draw and Label",
+          "question": "Transverse section through the abdomen at the level of epiploic foramen",
+          "year": "Jul 24"
+        },
+        {
+          "type": "Draw and Label",
+          "question": "Transverse section at the level first lumbar vertebra",
+          "year": "Nov 20, Feb 17"
+        },
+        {
+          "type": "Draw and Label",
+          "question": "Transverse section through transpyloric plane",
+          "year": "Jan 19, Feb 14"
+        },
+        {
+          "type": "Draw and Label",
+          "question": "Stomach bed",
+          "year": "Feb 15, Aug 12"
+        },
+        {
+          "type": "Draw and Label",
+          "question": "Horizontal section at the level of L4 vertebra",
+          "year": "Aug 15"
+        },
+        {
+          "type": "MCQs",
+          "question": "Single response: Crypts of Lieberkuhn are present in",
+          "year": "Oct 24"
+        },
+        {
+          "type": "MCQs",
+          "question": "Single response: All are branches of superior mesenteric artery EXCEPT:",
+          "year": "Jul 24"
+        },
+        {
+          "type": "MCQs",
+          "question": "Multiple response: Which of the following statement/s is/are true about coeliac trunk?",
+          "year": "Jul 24"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Name two arteries of Coeliac trunk",
+          "year": "Nov 23"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Most common position of vermiform appendix",
+          "year": "Aug 11"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Point located at the junction between upper 2/3rd and lower 1/3rd of spino-umbilical line",
+          "year": "Aug 21, Mar 21"
+        }
+      ],
+      "Pancreas, Liver, Biliary Apparatus, Spleen and Portal Vein": [
+        {
+          "type": "Long Essays",
+          "question": "During an abdominal surgery, the doctor observed a ring of pancreatic tissue surrounding the duodenum and obstructing it...",
+          "year": "Jul 24"
+        },
+        {
+          "type": "Long Essays",
+          "question": "Describe the pancreas under following headings...",
+          "year": "Mar 21"
+        },
+        {
+          "type": "Long Essays",
+          "question": "A 43-year-old fair lady reported to surgery outpatient department with a history of intense pain in the upper-right side of the abdomen...",
+          "year": "Jan 20"
+        },
+        {
+          "type": "Long Essays",
+          "question": "A 55-year-old male presented to the casuality with vomiting of blood. On clinical examination there was an enlarged organ in his right hypochondrium...",
+          "year": "Mar 21"
+        },
+        {
+          "type": "Long Essays",
+          "question": "A 50 years old man came to the casualty with complaints of pain in the abdomen. Diagnostic tests revealed abnormal liver function tests...",
+          "year": "Nov 20"
+        },
+        {
+          "type": "Long Essays",
+          "question": "A 65 year old man presented with dilated veins around the umbilicus and vague pain in the epigastric region...",
+          "year": "Aug 11"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Describe the development and microscopy of pancreas.",
+          "year": "Oct 24"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Describe the Gall bladder under the following...",
+          "year": "Nov 23"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Portosystemic anastomosis with clinical significance",
+          "year": "May 23"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Portocaval anastomosis- sites, vessels involved and applied importance",
+          "year": "Feb 23"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Spleen - surfaces, relations and blood supply",
+          "year": "Mar 21"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Pancreas - parts, relations and blood supply",
+          "year": "Jan 20, Aug 13, Feb 22"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Bile duct",
+          "year": "Feb 23"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Explain the anatomical basis of venous engorgements of anterior abdominal wall and anal canal in portal hypertension",
+          "year": "Oct 24"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Porta hepatis",
+          "year": "Jul 23"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Explain anatomical basis of hematemesis and caput medusa in portal hypertension",
+          "year": "Aug 21"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Portocaval anastomoses",
+          "year": "Feb 14"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Extra hepatic biliary apparatus",
+          "year": "Feb 14"
+        },
+        {
+          "type": "Draw and Label",
+          "question": "Visceral surface of liver",
+          "year": "Jan 18, Jul 17"
+        },
+        {
+          "type": "Draw and Label",
+          "question": "Extra hepatic biliary apparatus",
+          "year": "Feb 15, Aug 16, Aug 15"
+        },
+        {
+          "type": "MCQs",
+          "question": "Case scenario: A 10 year-old boy was admitted in the hospital with complaints of jaundice, itchy skin, vomiting and pale fatty stools. CT revealed pancreatic tissue encircling the duodenum.",
+          "year": "Jul 24"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Two true ligaments of liver",
+          "year": "Nov 23"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Name the fissures of liver",
+          "year": "Aug 21"
+        }
+      ],
+      "Posterior Abdominal Wall": [
+        {
+          "type": "Short Notes",
+          "question": "Inferior vena cava",
+          "year": "Jul 17, May 22"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Vertebral level of termination of abdominal aorta",
+          "year": "Feb 23"
+        }
+      ],
+      "Kidneys and Suprarenal Glands": [
+        {
+          "type": "Long Essays",
+          "question": "A person was brought to casualty with a deep stab injury on the left side of back with complaints of passing frank blood in urine...",
+          "year": "Aug 19"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Right kidney external features, vertebral extent, coverings, relations and development",
+          "year": "Aug 15"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Anterior and posterior relations of right kidney",
+          "year": "Jul 24"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Right suprarenal gland",
+          "year": "Feb 22"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Blood supply of supra renal glands",
+          "year": "Feb 17"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Coverings of kidney",
+          "year": "Jul 17"
+        },
+        {
+          "type": "Draw and Label",
+          "question": "Draw a neat labelled diagram of anterior relations of right and left kidneys",
+          "year": "Jan 24"
+        },
+        {
+          "type": "Draw and Label",
+          "question": "Anterior surface of right kidney showing its relations",
+          "year": "Feb 23, Feb 22, Sep 21"
+        },
+        {
+          "type": "Draw and Label",
+          "question": "Anterior surface of left kidney showing relations",
+          "year": "Mar 21"
+        },
+        {
+          "type": "Draw and Label",
+          "question": "Anterior relations of right and left kidney",
+          "year": "Aug 19, Aug 18, Feb 14"
+        },
+        {
+          "type": "Draw and Label",
+          "question": "Posterior surface of left kidney showing relations",
+          "year": "Aug 13, Aug 11"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Name two nerves related to posterior surface of kidney.",
+          "year": "May 22"
+        }
+      ],
+      "Pelvis": [
+        {
+          "type": "Short Notes",
+          "question": "Branches of internal iliac artery",
+          "year": "Feb 23"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Components of pelvic diaphragm",
+          "year": "Jan 24, Aug 16"
+        },
+        {
+          "type": "Draw and Label",
+          "question": "Median section of female pelvis",
+          "year": "Aug 14"
+        },
+        {
+          "type": "Draw and Label",
+          "question": "Median section of male pelvis",
+          "year": "May 22"
+        },
+        {
+          "type": "MCQs",
+          "question": "Multiple response: Branches arising from the posterior division of internal iliac artery are:",
+          "year": "Oct 24"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Four arteries from anterior division of internal iliac artery",
+          "year": "Jan 24"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Two branches of posterior division of internal iliac artery.",
+          "year": "Feb 22, Jul 24"
+        }
+      ],
+      "Urinary System - Urinary Bladder and Urethra": [
+        {
+          "type": "Short Essays",
+          "question": "Describe the presenting parts, interior, microscopic structure of urinary bladder.",
+          "year": "Jan 24"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Urinary bladder",
+          "year": "Jul 23"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Ligaments of urinary bladder",
+          "year": "May 23"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Internal trigone of urinary bladder",
+          "year": "Jul 24"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Male urethra",
+          "year": "Mar 21, Aug 21"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Ureter.",
+          "year": "Jan 20, Aug 16"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Trigone of urinary bladder",
+          "year": "Oct 24"
+        }
+      ],
+      "Male Genital Organs": [
+        {
+          "type": "Short Essays",
+          "question": "Describe the internal features, lobes and clinical importance of prostate",
+          "year": "Feb 23"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Descent of testes",
+          "year": "Jan 24"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Coverings of testis",
+          "year": "May 23"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Layers of scrotum",
+          "year": "Jul 24"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Vas deferens",
+          "year": "Aug 15"
+        }
+      ],
+      "Female Genital Organs": [
+        {
+          "type": "Long Essays",
+          "question": "A 60 years old multiparous woman came to hospital with complaints of mass descending per vaginum...",
+          "year": "Nov 23"
+        },
+        {
+          "type": "Long Essays",
+          "question": "A 50 years old woman came to the casualty with complaints of pain in the pelvic region. A pelvic scan revealed a mass on the uterus...",
+          "year": "Aug 19"
+        },
+        {
+          "type": "Long Essays",
+          "question": "35 year old woman with four living children and history of all vaginal deliveries attended gynaecological out-patient department with complaints of pelvic heaviness...",
+          "year": "Sep 21, Feb 14"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Describe the supports of uterus",
+          "year": "Oct 24"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Supports of uterus and its applied anatomy",
+          "year": "Aug 13"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Supports of uterus",
+          "year": "Jan 24"
+        },
+        {
+          "type": "Short Notes",
+          "question": "True ligaments of uterus",
+          "year": "Jul 23, Feb 15"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Broad ligament of uterus",
+          "year": "Feb 23, Aug 15"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Clinical and microscopic anatomy of uterine tube.",
+          "year": "Jul 24"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Arterial supply of uterus",
+          "year": "Mar 21"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Fallopian tube",
+          "year": "Sep 21"
+        },
+        {
+          "type": "MCQs",
+          "question": "Multiple response: Which of the following statement/s is/are true about cervical canal?",
+          "year": "Jul 24"
+        },
+        {
+          "type": "Old Questions",
+          "question": "What is the anteflexion angle of uterus",
+          "year": "Jan 24"
+        }
+      ],
+      "Perineum": [
+        {
+          "type": "Short Essays",
+          "question": "Describe the boundaries and contents of perineal pouches",
+          "year": "Oct 24"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Describe the boundaries, contents and applied anatomy of ischiorectal fossa",
+          "year": "Jul 24"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Boundaries and contents of ischiorectal fossa",
+          "year": "Jul 24"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Perineal pouches",
+          "year": "Jan 24"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Describe ischio rectal fossa with clinical significance.",
+          "year": "May 23"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Ischiorectal fossa.",
+          "year": "Feb 22"
+        },
+        {
+          "type": "Short Essays",
+          "question": "With the help of a neat diagram, describe ischio-rectal fossa. Give its clinical importance",
+          "year": "Aug 21, Jul 17, Aug 14"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Perineal membrane in males",
+          "year": "Jan 24"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Superficial perineal pouch",
+          "year": "Nov 23, Feb 22, Jan 20"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Ischiorectal fossa",
+          "year": "Feb 23"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Boundaries and contents of superficial perineal pouch.",
+          "year": "May 22, Mar 21, Jan 19"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Urogenital diaphragm",
+          "year": "Aug 19"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Structures piercing perineal membrane in females",
+          "year": "Jan 18"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Perineal body",
+          "year": "Feb 14"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Pudendal canal",
+          "year": "Aug 14, Aug 12"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Deep perineal pouch and its contents",
+          "year": "Aug 21"
+        },
+        {
+          "type": "MCQs",
+          "question": "Assertion-Reason: A) Pudendal nerve is related to the dorsal surface of ischial spine.",
+          "year": "Oct 24"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Contents of Alcock's canal",
+          "year": "Nov 23"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Two muscles present in superficial perineal pouch",
+          "year": "Nov 23"
+        }
+      ],
+      "Rectum and Anal Canal": [
+        {
+          "type": "Long Essays",
+          "question": "Describe the Anal canal under the following Headings...",
+          "year": "May 23"
+        },
+        {
+          "type": "Long Essays",
+          "question": "A middle aged man visited the surgical OPD with history of bleeding per anum since three months...",
+          "year": "Aug 18"
+        },
+        {
+          "type": "Long Essays",
+          "question": "A 62 year old man with progressive weight loss complains of pain and bleeding near the anal orifice...",
+          "year": "Feb 17"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Anal canal",
+          "year": "Aug 12"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Interior of anal canal",
+          "year": "Feb 16"
+        },
+        {
+          "type": "MCQs",
+          "question": "Multiple response: Which of the following statement/s is/are true about rectum",
+          "year": "Oct 24"
+        },
+        {
+          "type": "MCQs",
+          "question": "Multiple response: Which of the following statement/s is/are true about the pectinate line of anal canal?",
+          "year": "Jul 24"
+        }
+      ]
+    },
+    "Lower Limb": {
+      "Bones": [
+        {
+          "type": "Short Notes",
+          "question": "Head of femur",
+          "year": "Jul 17"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Linea aspera",
+          "year": "Aug 12"
+        },
+        {
+          "type": "MCQs",
+          "question": "Single response: Which one of the following bones is devoid of muscular attachments",
+          "year": "Oct 24"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Two structures attached to Linea Aspera.",
+          "year": "Jan 24"
+        }
+      ],
+      "Gluteal Region": [
+        {
+          "type": "Long Essays",
+          "question": "A 15-year-old boy came with Altered Gait to the OPD after intramuscular Injection in the right buttock...",
+          "year": "Nov 23"
+        },
+        {
+          "type": "Long Essays",
+          "question": "A 12 year old boy following an inadvertent intra-muscular injection in the gluteal region developed certain neurological deficits including difficulty to dorsiflex the foot...",
+          "year": "Aug 11"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Piriformis",
+          "year": "Jul 23"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Gluteus maximus",
+          "year": "Feb 22, Aug 16"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Structures under cover of gluteus maximus",
+          "year": "Aug 15, Aug 11, Aug 15, Aug 13"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Greater sciatic notch",
+          "year": "Aug 21"
+        },
+        {
+          "type": "MCQs",
+          "question": "Assertion-Reason: A) Superolateral quadrant of gluteal region is a safe site for intramuscular injection.",
+          "year": "Oct 24"
+        }
+      ],
+      "Front of Thigh": [
+        {
+          "type": "Short Essays",
+          "question": "Describe the boundaries, contents and applied anatomy of femoral triangle.",
+          "year": "Jul 24"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Inguinal lymph nodes",
+          "year": "May 23"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Femoral triangle",
+          "year": "Feb 23, Sep 21"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Femoral canal and its applied anatomy",
+          "year": "Mar 21"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Femoral artery",
+          "year": "Feb 16, Aug 16"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Adductor canal- boundaries and contents",
+          "year": "Jul 17, Feb 15"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Femoral sheath and applied aspects",
+          "year": "Feb 17"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Describe the anatomical basis of femoral hernia.",
+          "year": "Jul 24"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Adductor canal",
+          "year": "Jan 24"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Femoral sheath",
+          "year": "Feb 23"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Superficial inguinal lymph nodes",
+          "year": "Jan 19"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Femoral artery",
+          "year": "Aug 14"
+        },
+        {
+          "type": "Draw and Label",
+          "question": "Transverse section of right mid-thigh",
+          "year": "Jul 24"
+        },
+        {
+          "type": "Draw and Label",
+          "question": "Cross section at middle of thigh",
+          "year": "Jan 24"
+        },
+        {
+          "type": "Draw and Label",
+          "question": "Femoral triangle",
+          "year": "Aug 19, Feb 15, Aug 14, Aug 12"
+        },
+        {
+          "type": "Draw and Label",
+          "question": "Transverse section of thigh at the level of adductor canal",
+          "year": "Nov 23"
+        },
+        {
+          "type": "MCQs",
+          "question": "Multiple response: Muscles inserted into the iliotibial tract are",
+          "year": "Oct 24"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Two superficial branches of femoral artery in the femoral triangle",
+          "year": "Nov 23"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Nerve supply of Adductor Magnus Muscle.",
+          "year": "May 23"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Posterior wall of femoral sheath.",
+          "year": "May 23"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Contents of femoral canal",
+          "year": "Jan 24"
+        }
+      ],
+      "Back of Thigh": [
+        {
+          "type": "Short Notes",
+          "question": "Hamstring muscles",
+          "year": "Feb 23"
+        },
+        {
+          "type": "MCQs",
+          "question": "Assertion-Reason: A) The long head of biceps femoris is grouped under hamstrings.",
+          "year": "Oct 24"
+        }
+      ],
+      "Popliteal Fossa": [
+        {
+          "type": "Short Essays",
+          "question": "Popliteal fossa",
+          "year": "May 22"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Structures in the floor of popliteal fossa",
+          "year": "Aug 13"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Superomedial boundary of popliteal fossa",
+          "year": "Feb 23, Mar 21"
+        }
+      ],
+      "Leg": [
+        {
+          "type": "Short Essays",
+          "question": "Soleus muscle",
+          "year": "Feb 23"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Extensor retinaculum of lower limb",
+          "year": "Sep 21"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Structures passing beneath the extensor retinaculum of the foot",
+          "year": "Nov 23"
+        },
+        {
+          "type": "Draw and Label",
+          "question": "Cross section at middle of leg.",
+          "year": "May 23"
+        },
+        {
+          "type": "Draw and Label",
+          "question": "Transverse section through middle of leg",
+          "year": "Jan 20, Aug 18"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Muscles that form Tendo achilles.",
+          "year": "Jan 24"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Two muscles that produce plantar flexion",
+          "year": "Nov 23"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Nerve passing underneath the flexor retinaculum of foot.",
+          "year": "May 22"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Nerve and artery passing deep to inferior extensor retinaculum of foot.",
+          "year": "Feb 22"
+        }
+      ],
+      "Foot": [
+        {
+          "type": "Long Essays",
+          "question": "A 20-year-old male had applied for selection into defence academy in India. His application was rejected...",
+          "year": "Oct 24"
+        },
+        {
+          "type": "Long Essays",
+          "question": "Describe the arches of foot under following headings...",
+          "year": "Jan 20"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Describe the longitudinal arches of foot and their clinical anatomy.",
+          "year": "Jul 24"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Arches of foot",
+          "year": "May 22"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Explain the course, branches and clinical importance of dorsalis pedis artery",
+          "year": "Oct 24"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Medial longitudinal arch of foot",
+          "year": "Jul 17"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Plantar aponeurosis",
+          "year": "Feb 23"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Dorsalis pedis artery",
+          "year": "Jul 24, Feb 17, Mar 21, Aug 19"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Longitudinal arches foot",
+          "year": "Aug 12"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Inversion and eversion",
+          "year": "Aug 15, Aug 14"
+        },
+        {
+          "type": "Draw and Label",
+          "question": "Longitudinal arches foot",
+          "year": "Aug 13"
+        }
+      ],
+      "Nerves (Lower Limb)": [
+        {
+          "type": "Long Essays",
+          "question": "Describe sciatic nerve under following headings...",
+          "year": "Jul 24"
+        },
+        {
+          "type": "Long Essays",
+          "question": "60 year old lady was brought to the casuality following a history of fall at her residence. On clinical examination, the anatomical orientation of her right lower limb was disturbed...",
+          "year": "Aug 21"
+        },
+        {
+          "type": "Long Essays",
+          "question": "A middle aged male patient complained of low back pain radiating to leg on right side...",
+          "year": "Mar 21"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Femoral nerve",
+          "year": "Nov 20, Jan 24"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Sciatic nerve",
+          "year": "Aug 11"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Common peroneal nerve",
+          "year": "Aug 16, Aug 12"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Cutaneous innervation of lower limb below knee",
+          "year": "Jul 23"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Obturator nerve",
+          "year": "Feb 22"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Anatomical basics of foot drop",
+          "year": "Sep 21"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Common peroneal nerve",
+          "year": "Jan 18"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Sciatic nerve",
+          "year": "Jul 17"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Saphenous nerve",
+          "year": "Feb 15"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Cutaneous innervation of lower limb below knee",
+          "year": "Aug 18, Aug 14, Feb 17"
+        },
+        {
+          "type": "MCQs",
+          "question": "Assertion-Reason: A) Injury to tibial nerve results in foot drop.",
+          "year": "Oct 24"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Muscles supplied by superficial peroneal nerve.",
+          "year": "Feb 22"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Root value of sciatic nerve",
+          "year": "Mar 21"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Nerve involved in foot drop",
+          "year": "Feb 14"
+        }
+      ],
+      "Joints (Lower Limb)": [
+        {
+          "type": "Long Essays",
+          "question": "There was a posterior dislocation of hip joint in a 30-year old man injuring his sciatic nerve...",
+          "year": "Jul 24"
+        },
+        {
+          "type": "Long Essays",
+          "question": "Describe the intracapsular structures of knee joint. Explain the clinical importance of any two of them.",
+          "year": "May 22"
+        },
+        {
+          "type": "Long Essays",
+          "question": "An 18-year-old boy was hit down by car while walking on the road and sustained injury to his right knee joint...",
+          "year": "Mar 21"
+        },
+        {
+          "type": "Long Essays",
+          "question": "35 years male patient was bought to the casualty with a swollen right knee and a history of a fall during mountain climbing...",
+          "year": "Jan 18"
+        },
+        {
+          "type": "Long Essays",
+          "question": "A 50 year old man came to the casualty with complaint of pain in the hip joint...",
+          "year": "Aug 19"
+        },
+        {
+          "type": "Long Essays",
+          "question": "A 30-years old man was brought to the casualty following a road traffic accident. On examination, his right lower limb was shorted...",
+          "year": "Mar 21"
+        },
+        {
+          "type": "Long Essays",
+          "question": "A footballer is suffering from sustained injury to his right knee while kicking...",
+          "year": "Aug 15"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Describe the cruciate ligaments and menisci of knee joint and their clinical importance",
+          "year": "Oct 24"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Ligaments of knee joint",
+          "year": "Feb 23, Feb 22, Jan 19"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Movements at knee joint",
+          "year": "Aug 21"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Hip joint",
+          "year": "Aug 14, Feb 14, Aug 13"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Describe the factors stabilizing the ankle joint.",
+          "year": "Jul 24"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Ankle joint",
+          "year": "Feb 22"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Lateral rotators of hip joint.",
+          "year": "Feb 22"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Deltoid ligament of ankle",
+          "year": "Mar 21"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Ligamentum patella",
+          "year": "Jan 20"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Tibial collateral ligament",
+          "year": "Jul 17"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Medial collateral ligament of knee joint",
+          "year": "Aug 18"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Cruciate ligaments",
+          "year": "Aug 11"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Intra articular structures of knee joint",
+          "year": "Feb 14, Aug 14"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Locking and unlocking",
+          "year": "Aug 15"
+        },
+        {
+          "type": "Draw and Label",
+          "question": "Structures surrounding hip joint",
+          "year": "Feb 23, Mar 21"
+        },
+        {
+          "type": "Draw and Label",
+          "question": "Transverse section through knee joint",
+          "year": "Jan 24, Nov 20, Feb 14, Aug 16"
+        },
+        {
+          "type": "MCQs",
+          "question": "Assertion-Reason: A) Lateral meniscus of knee is seldom injured in football players.",
+          "year": "Jul 24"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Two muscles of intracapsular origin",
+          "year": "Feb 23"
+        }
+      ],
+      "Veins (Lower Limb)": [
+        {
+          "type": "Long Essays",
+          "question": "A 50 year old traffic police man came to a surgeon with a complaint of swollen vessels in the leg...",
+          "year": "Mar 21"
+        },
+        {
+          "type": "Long Essays",
+          "question": "A 40 years old shopkeeper whose job requires standing up to 15 hours per day developed abnormally swollen (Varicose) veins in left leg...",
+          "year": "Aug 19"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Formation, course, tributaries and termination of great saphenous vein. Give its applied importance.",
+          "year": "Jan 24"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Venous drainage of lower limb",
+          "year": "Jul 24"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Anatomical basis of dilated veins of lower limb.",
+          "year": "May 22"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Great saphenous vein",
+          "year": "Oct 24"
+        },
+        {
+          "type": "MCQs",
+          "question": "Multiple response: True about great saphenous vein is/are",
+          "year": "Jul 24"
+        }
+      ],
+      "Systemic Embryology (Thorax, Abdomen & Pelvis, Lower Limb)": [
+        {
+          "type": "Long Essays",
+          "question": "A 2-month old male child was brought to the hospital since the mother noticed the left scrotum of the boy was empty...",
+          "year": "Jan 24"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Describe the development of kidney and its associated anomalies.",
+          "year": "Feb 22"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Midgut-Derivatives, Rotation and Associated anomalies",
+          "year": "May 22"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Development of interatrial septum",
+          "year": "Jan 24, Aug 19"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Para mesonephric duct",
+          "year": "Feb 22"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Formation and fate of the para mesonephric duct",
+          "year": "Jan 20, Jan 18"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Development of pancreas",
+          "year": "Aug 19"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Inter ventricular septum",
+          "year": "Aug 18, Feb 16"
+        },
+        {
+          "type": "Short Notes",
+          "question": "List the derivatives of mesonephric duct in males",
+          "year": "Feb 17"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Right atrial development",
+          "year": "Aug 16"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Meckel's diverticlum",
+          "year": "Aug 15"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Development of portal vein",
+          "year": "Jul 15"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Development of lungs",
+          "year": "Feb 14"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Developmental descent of testis",
+          "year": "Feb 14, Aug 13"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Derivatives of midgut",
+          "year": "Aug 13"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Derivatives of pre-arterial segment of midgut loop",
+          "year": "Aug 12"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Development of anal canal",
+          "year": "Aug 11, Feb 15"
+        },
+        {
+          "type": "MCQs",
+          "question": "Single response: All of the following are derived from hindgut EXCEPT",
+          "year": "Oct 24"
+        },
+        {
+          "type": "MCQs",
+          "question": "Single response: Ductus deferens develops from",
+          "year": "Jul 24"
+        },
+        {
+          "type": "MCQs",
+          "question": "Assertion-Reason: A) Left ventricular hypertrophy is a feature of Fallot's tetralogy of heart.",
+          "year": "Jul 24"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Developmental sources of interatrial septum.",
+          "year": "Nov 23, May 22, Feb 22"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Structure that develops from left horn of sinus venosus",
+          "year": "Feb 23"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Structure hooking ligamentum arteriosum",
+          "year": "May 22"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Developmental source of ductus deferens",
+          "year": "May 22"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Developmental sources of kidney.",
+          "year": "Feb 22"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Sources of development of arch of aorta",
+          "year": "Mar 21, Aug 21"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Hindgut derivatives",
+          "year": "Mar 21"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Developmental sources of diaphragm",
+          "year": "Mar 21"
+        }
+      ],
+      "Systemic Histology (Thorax, Abdomen & Pelvis, Lower Limb)": [
+        {
+          "type": "Short Essays",
+          "question": "Describe the microscopic features of fundus and pyloric part of stomach.",
+          "year": "Jul 24, Jan 24"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Explain the microscopic structure of small intestine",
+          "year": "May 23"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Microscopic structure of stomach with neat labelled diagram.",
+          "year": "Mar 21"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Uterus - Microscopic anatomy and changes in different phases of uterine cycle",
+          "year": "Aug 18"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Histology of ovary",
+          "year": "Feb 14, Aug 13"
+        },
+        {
+          "type": "Short Essays",
+          "question": "Histology of pancreas",
+          "year": "Oct 24"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Describe the microscopic structure of liver",
+          "year": "Jan 24, Nov 23, Aug 21"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Histology of kidney",
+          "year": "Jul 23"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Microscopic structure of spleen",
+          "year": "Feb 23"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Histology of appendix",
+          "year": "Feb 22, Jan 20"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Histology of ureter",
+          "year": "Aug 21, Feb 16"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Histology of pancreas",
+          "year": "Jan 20"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Microscopic structure of prostate",
+          "year": "Aug 18"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Microscopic structure of supra renal gland",
+          "year": "Oct 24"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Histology of hepatic and portal lobule",
+          "year": "Jul 24"
+        },
+        {
+          "type": "MCQs",
+          "question": "Single response: The lining epithelium of uterine endometrium is",
+          "year": "Oct 24"
+        },
+        {
+          "type": "MCQs",
+          "question": "Single response: Corpora amylacea is a microscopic feature seen in:",
+          "year": "Jul 24"
+        },
+        {
+          "type": "Old Questions",
+          "question": "Two types of cells present in main gastric glands",
+          "year": "Aug 21"
+        }
+      ]
+    },
+    "General Questions": {
+      "General Questions": [
+        {
+          "type": "Short Notes",
+          "question": "Describe briefly the process of cadaver maintenance in the Anatomy department.",
+          "year": "Oct 24"
+        },
+        {
+          "type": "Short Notes",
+          "question": "Reflect on how to honor and extend gratitude to the cadaver as a Phase 1 MBBS student",
+          "year": "Jul 24"
+        },
+        {
+          "type": "MCQs",
+          "question": "Single response: Which of the following fixative is commonly used to preserve a cadaver",
+          "year": "Oct 24"
+        },
+        {
+          "type": "MCQs",
+          "question": "Single response: The chemical used as a preservative in embalming fluid is:",
+          "year": "Jul 24"
+        }
+      ]
+    }
+  }
+}
